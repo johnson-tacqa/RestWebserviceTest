@@ -2,4 +2,6 @@ use small date format
 
 Thsi and that
 
-true this an dthat
+true this and that
+
+removed the typo
